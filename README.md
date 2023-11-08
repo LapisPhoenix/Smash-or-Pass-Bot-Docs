@@ -15,12 +15,13 @@ Prefix: `\`
 | Register Channel | `registerchannel`, `rc`, `setchannel`, `sc` | Sets the channel for the bot to post Smash or Pass questions | Administrators |
 | Stats | `stats` | Tells you how many smashes and passes you have | Everyone |
 | Ping | `ping` | Tells you the latency of the bot | Everyone |
+| Create Smash or Pass | `createsop`, `createsmashorpass`, `makesop`, `csop`, `msop` | Create a custom Smash or Pass post with your very own image | Everyone |
 
 
 # TODO
 - [x] Add Pokemon
 - [ ] Add Other Characters (No Spoilers ;))
-- [ ] Add custom SoP command
+- [x] Add custom SoP command
 - [ ] Add compititon command
 
 
